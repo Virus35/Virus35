@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virus35&label=Profile%20views&color=0e75b6&style=flat" alt="virus35" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MEAN**
 
 - 📫 How to reach me **rikhivva@gmail.com**
 
