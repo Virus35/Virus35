@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virus35&label=Profile%20views&color=0e75b6&style=flat" alt="virus35" /> </p>
 
-- 🌱 I’m currently learning **MEAN**
+- 🌱 Having Expertise in writing generic, clean and optimized code(NCLC). Skilled in FrontEnd Development and familiar with backend and multiple databases.
 
 - 📫 How to reach me **rikhivva@gmail.com**
 
